@@ -2,8 +2,6 @@ from util.check_num import check_num, num_systems
 
 
 # Input number system
-
-
 def input_num_sys(phrase):
     num_sys = None
 
@@ -21,8 +19,6 @@ def input_num_sys(phrase):
 
 
 # Input number to convert
-
-
 def input_num(num_sys_convert_from):
     num = None
 

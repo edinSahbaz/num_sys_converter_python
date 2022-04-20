@@ -6,8 +6,6 @@ hexadecimal = ['0', '1', '2', '3', '4', '5', '6',
                '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F']
 
 # Check if number is valid
-
-
 def validate_num(num, digits):
     is_valid = True
 
@@ -20,8 +18,6 @@ def validate_num(num, digits):
 
 
 # Check if number belogns to number system
-
-
 def check_num(num, num_sys):
     if num_sys in num_systems:
         if num_sys == 'binary':
