@@ -1,3 +1,3 @@
 # Number System Converter
 
-NSC made in Python. Assignment for class "Computer Networks and Protocols".
+NSC made in Python. Assignment for "Computer Networks and Protocols" class.
